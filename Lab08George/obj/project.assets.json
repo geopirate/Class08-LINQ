@@ -3565,7 +3565,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\georg\\.nuget\\packages\\": {},
+    "C:\\Users\\Georg\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3574,17 +3574,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\Class08-LINQ\\Lab08George\\Lab08George.csproj",
+      "projectUniqueName": "C:\\Users\\Georg\\Source\\Repos\\Class08-LINQ\\Lab08George\\Lab08George.csproj",
       "projectName": "Lab08George",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\Class08-LINQ\\Lab08George\\Lab08George.csproj",
-      "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\Class08-LINQ\\Lab08George\\obj\\",
+      "projectPath": "C:\\Users\\Georg\\Source\\Repos\\Class08-LINQ\\Lab08George\\Lab08George.csproj",
+      "packagesPath": "C:\\Users\\Georg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Georg\\Source\\Repos\\Class08-LINQ\\Lab08George\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
